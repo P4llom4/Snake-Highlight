@@ -2,7 +2,7 @@
 
 > Projeto construído para estudo.
 
-[Clique aqui para acesssar!](https://p4llom4.github.io/Nothing4us)
+[Clique aqui para acesssar!]([https://p4llom4.github.io/Nothing4us](https://p4llom4.github.io/Snake-Highlight/))
 
 ![preview](./.github/preview.png)
 
